@@ -1,6 +1,6 @@
 ### Consulta na API da deezer com relatório em uma planilha excel
-Este programa faz uma consulta na API da deezer para retornar informações sobre **apenas um artista** da empresa *Oni Music* e criar um relatório em uma planilha excel.  
-Para rodar o programa siga os passos a seguir:
+Este programa realiza uma consulta na API da empresa Deezer, requisitando informações sobre **apenas um artista** da empresa *Oni Music* para criar um relatório em uma planilha Excel.  
+Para rodar o programa siga, os passos a seguir:
 * Instale a versão mais atualizada do python
 * Abra o cmd na pasta do projeto
 * Instale as dependências necessárias para rodar o programa
